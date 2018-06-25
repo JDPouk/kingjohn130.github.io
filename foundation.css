@@ -5863,3 +5863,7 @@ a.thumbnail {
     }
 }
 
+@font-face {
+  font-family: 'TESLA';
+  src: url('Tesla.ttf');
+}
