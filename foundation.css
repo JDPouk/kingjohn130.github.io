@@ -54,13 +54,12 @@ section {
      * `article` contexts in Chrome, Firefox, and Safari.
      */
 h1 {
-  font-family: TESLA;
   font-size: 2em;
   margin: 0.67em 0; }
 
   @font-face {
-  font-family:TESLA;
-  src: url('TESLA.ttf');
+  font-family: TESLA;
+  src: url(new.ttf);
 }
 
 /* Grouping content
