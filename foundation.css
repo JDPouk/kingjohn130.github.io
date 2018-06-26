@@ -58,6 +58,11 @@ h1 {
   font-size: 2em;
   margin: 0.67em 0; }
 
+  @font-face {
+  font-family:TESLA;
+  src: url('TESLA.ttf');
+}
+
 /* Grouping content
        ========================================================================== */
 /**
@@ -5862,9 +5867,4 @@ a.thumbnail {
         opacity: 0;
     @include transform(translate(0, 80px));
     }
-}
-
-@font-face {
-  font-family:'TESLA';
-  src: url('TESLA.ttf');
 }
