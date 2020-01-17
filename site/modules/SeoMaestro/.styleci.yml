@@ -1,6 +1,0 @@
-preset: psr-2
-risky: false
-finder:
-    exclude:
-        - "tests/templates"
-        - "templates"
