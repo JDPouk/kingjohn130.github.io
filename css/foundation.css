@@ -5662,7 +5662,7 @@ html.is-reveal-open {
   -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background-color: #8d02ff;
+  background-color: #2c3840;
   text-align: center;
   position: fixed;
   top: 0;
@@ -5677,7 +5677,7 @@ body.sticky-shrinknav-wrapper {
 
 body.sticky-shrinknav-wrapper .sticky-shrinknav-header {
   height: 3.75rem;
-  background-color: #9430e6;
+  background-color: #2c3840;
 }
 
 body.sticky-shrinknav-wrapper .sticky-shrinknav-header .sticky-shrinknav-header-title {
@@ -5707,7 +5707,7 @@ body.sticky-shrinknav-wrapper .sticky-shrinknav-header .sticky-shrinknav-header-
   -webkit-justify-content: space-between;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  background: url("https://images.pexels.com/photos/378273/pexels-photo-378273.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb") center center no-repeat;
+  background: url("https://cdn.pixabay.com/photo/2018/12/18/22/29/background-3883181_960_720.jpg") center center no-repeat;
   background-size: cover;
 }
 
