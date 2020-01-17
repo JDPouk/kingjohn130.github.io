@@ -1,0 +1,4 @@
+2019-12-17 10:09:25	admin	https://jpouk.co/admin123/page/edit/?id=1	Added filedata to DB schema for 'images'
+2019-12-17 10:26:58	admin	https://jpouk.co/admin123/setup/template/removeFields	Deleted field "summary" data in 3 row(s) from 3 page(s) using template "basic-page". [page-by-page]
+2019-12-17 10:26:58	admin	https://jpouk.co/admin123/setup/template/removeFields	Deleted field "sidebar" data in 1 row(s) from 1 page(s) using template "basic-page". [page-by-page]
+2019-12-20 19:45:13	admin	https://jpouk.co/admin123/profile/	Profile saved - pass, email, admin_theme
