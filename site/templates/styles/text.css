@@ -1,0 +1,36 @@
+.align_left {
+	max-width:100%
+}
+
+#content {
+	
+	width: 80%;
+	padding-bottom: 5rem;
+	padding-top: 5rem;
+}
+
+
+p {
+	display: flex;
+}
+
+
+#contact-form {
+ padding: 10%;
+
+}
+
+
+.form--success--message{
+    padding-top: 1rem;
+    padding-left: 30rem;
+
+}
+
+#c-crd {;
+	padding-top: 1rem;
+}
+
+
+
+
