@@ -5756,3 +5756,7 @@ body.sticky-shrinknav-wrapper .sticky-shrinknav-header .sticky-shrinknav-header-
   font-weight: bold;
 }
 
+html,body
+{
+    overflow-x: hidden; 
+}
